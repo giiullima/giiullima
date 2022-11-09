@@ -2,7 +2,8 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-<img align='right' src="[https://user-images.githubusercontent.com/53629399/200711058-40162c3c-1682-4c9c-b8a6-3568fe363c1b.png]" width="230">
+<img align='right' src="(https://user-images.githubusercontent.com/53629399/200711651-c57716b7-6f67-448f-b517-390966c826f8.png)" width="230">
+![image]
 
 <!--
 **giiullima/giiullima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
