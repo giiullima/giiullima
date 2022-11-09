@@ -7,4 +7,6 @@
 - Sou Analista de Qualidade de Software desde 2020
 - Bacharel em Engenharia de Software
 
-
+<div>
+  <img align='right' height="180em" src="https://github-readme-stats.vercel.app/api?username=giiullima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
